@@ -1,20 +1,20 @@
 {
   "android": {
     "com.ipification.demoapp": {
-      "latest_version": "2.2.18",
-      "latest_version_code": 222180,
-      "min_supported_version": "2.2.18",
-      "min_supported_version_code": 222180,
+      "latest_version": "2.2.19",
+      "latest_version_code": 222190,
+      "min_supported_version": "2.2.19",
+      "min_supported_version_code": 222190,
       "force_update": true,
       "update_message": "A new version is available. Please update for the best experience.",
       "force_update_message": "This version is no longer supported. Please update to continue.",
       "download_url": "https://apps.ipification.com/share/com.ipification.demoapp"
     },
     "com.ipification.demoapp.stage": {
-       "latest_version": "2.2.18",
-      "latest_version_code": 222180,
-      "min_supported_version": "2.2.18",
-      "min_supported_version_code": 222180,
+       "latest_version": "2.2.19",
+      "latest_version_code": 222190,
+      "min_supported_version": "2.2.19",
+      "min_supported_version_code": 222190,
       "force_update": true,
       "update_message": "A new stage version is available. Please update for the best experience.",
       "force_update_message": "This version is no longer supported. Please update to continue.",
@@ -51,9 +51,9 @@
       "download_url": "https://apps.ipification.com/share/com.ipification.demoapp.ioh"
     },
     "com.ipification.demoapp.telin": {
-       "latest_version": "2.2.18-telin",
-      "latest_version_code": 222180,
-      "min_supported_version": "2.2.18",
+       "latest_version": "2.2.19-telin",
+      "latest_version_code": 222190,
+      "min_supported_version": "2.2.19",
       "min_supported_version_code": 222180,
       "force_update": true,
       "update_message": "A new version is available. Please update for the best experience.",
