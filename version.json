@@ -15,10 +15,10 @@
       "latest_version_code": 222201,
       "min_supported_version": "2.2.1",
       "min_supported_version_code": 222201,
-      "force_update": true,
+      "force_update": false,
       "update_message": "A new version is available. Please update for the best experience.",
       "force_update_message": "This version is no longer supported. Please update to continue.",
-      "download_url": "https://apps.ipification.com/share/com.ipification.demoapp"
+      "download_url": "https://apps.ipification.com/share/com.ipification.demoapp.production"
     },
     "com.ipification.demoapp.stage": {
        "latest_version": "2.2.19",
