@@ -13,7 +13,7 @@
     "com.ipification.demoapp.production": {
       "latest_version": "2.2.21",
       "latest_version_code": 222201,
-      "min_supported_version": "2.2.1",
+      "min_supported_version": "2.2.21",
       "min_supported_version_code": 222201,
       "force_update": false,
       "update_message": "A new version is available. Please update for the best experience.",
